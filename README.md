@@ -1,5 +1,6 @@
-# Event Hubs Coordinates Stream
-Python script to send randomized coordinates (latitude, longitude) to Azure Event Hubs at once.
+# Send JSON to Azure Event Hubs
+Python script to stream JSON to an event hub.
 
 ## Run Instructions
 
+`py send_json.py`
